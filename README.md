@@ -24,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Lukasz Skotarek](https://github.com/your-github-user) - creator and maintainer
+- [Lukasz Skotarek](https://github.com/dreat) - creator and maintainer
